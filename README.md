@@ -27,7 +27,9 @@ This process is called just-in-time compilation(**JIT**)
 		* DLL: Dynamically linked library
 	* When compiling an app, the compiler builds one or more assamblies depending on how you parition your code 
 
-
+* Example: console application
+	* Don't have GUI 
+	* Visual c# > windows > console application
 
 
 ## Getting Started
